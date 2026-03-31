@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">Building ML-powered real-world apps 🚀</h3>
+<h1 align="center">Hi 👋, I'm Dhanush Gowda</h1>
+<h3 align="center">🤖 Machine Learning Engineer | Data Science Enthusiast</h3>
 
-💻 Aspiring Software Engineer | ML Enthusiast  
-🚀 Building real-world projects with Python & FastAPI  
-📊 Interested in Data Science & AI  
+<p align="center">
+💡 Building data-driven solutions using Machine Learning  
+📊 Focused on solving real-world problems with Data Science & AI  
+</p>
+
+🚀 Turning data into actionable insights and intelligent applications.
 
 ---
 
@@ -22,9 +25,15 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
-## 📌 Projects
-- 💡 CardioPredict – Heart Disease Prediction App  
-- 📚 Book Recommender System  
+## 📌 Featured Projects
+
+### ❤️ CardioPredict – Heart Disease Prediction App
+- Built using FastAPI, Scikit-learn, Docker  
+- Predicts heart disease risk using ML models  
+
+### 📚 Book Recommender System
+- Recommends books using collaborative filtering  
+- Built with Python & Streamlit    
 
 ---
 
