@@ -12,12 +12,12 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge"/>
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![ML](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
