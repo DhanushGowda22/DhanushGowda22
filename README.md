@@ -10,13 +10,13 @@
 
 ---
 
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![ML](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
+## 🔧 Tech Stack
+- Python 🐍
+- SQL 🗄️
+- Machine Learning 🤖
+- FastAPI ⚡
+- Streamlit 🎯
+- Git & GitHub 🔗
 
 ---
 
