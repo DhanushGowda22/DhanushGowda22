@@ -1,4 +1,3 @@
-## Hi there 👋, I'm Dhanush Gowda
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">Building ML-powered real-world apps 🚀</h3>
 
