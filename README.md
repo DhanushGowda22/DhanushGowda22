@@ -11,12 +11,12 @@
 ---
 
 ## 🔧 Tech Stack
-- Python 🐍
-- SQL 🗄️
-- Machine Learning 🤖
-- FastAPI ⚡
-- Streamlit 🎯
-- Git & GitHub 🔗
+- Python 
+- SQL 
+- Machine Learning 
+- FastAPI 
+- Streamlit 
+- Git & GitHub 
 
 ---
 
