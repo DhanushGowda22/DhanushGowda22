@@ -6,7 +6,7 @@ Building data-driven solutions using Machine Learning
 Focused on solving real-world problems with Data Science & AI  
 </p>
 
-🚀 Turning data into actionable insights through Machine Learning
+Turning data into actionable insights through Machine Learning
 
 ---
 
