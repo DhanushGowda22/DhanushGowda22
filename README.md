@@ -2,7 +2,7 @@
 <h3 align="center"> Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-💡 Building data-driven solutions using Machine Learning  
+Building data-driven solutions using Machine Learning  
 📊 Focused on solving real-world problems with Data Science & AI  
 </p>
 
