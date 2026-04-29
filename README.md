@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Gowda</h1>
-<h3 align="center">📊 Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center"> Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
 💡 Building data-driven solutions using Machine Learning  
