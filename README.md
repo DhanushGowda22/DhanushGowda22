@@ -10,7 +10,7 @@ Turning data into actionable insights through Machine Learning
 
 ---
 
-## 🔧Tech Stack
+## Tech Stack
 - Python 
 - SQL 
 - Machine Learning 
