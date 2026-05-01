@@ -32,7 +32,7 @@ Turning data into actionable insights through Machine Learning
 - Model Evaluation Techniques
 
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### ❤️ CardioPredict – Heart Disease Prediction App
 - Built using FastAPI, Scikit-learn, Docker  
