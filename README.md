@@ -25,7 +25,7 @@ Turning data into actionable insights through Machine Learning
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
-##  Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning Algorithms  
 - Data Analysis & Visualization  
