@@ -44,7 +44,7 @@ Turning data into actionable insights through Machine Learning
 - Recommends books using collaborative filtering  
 - Built with Python & Streamlit  
 - 🔗 [View Project](https://github.com/DhanushGowda22/Book-recommender-system)
-- - 🌐 [Live Demo](https://book-recommendationsystem-readanox.streamlit.app/)
+- 🌐 [Live Demo](https://book-recommendationsystem-readanox.streamlit.app/)
 
 ---
 
