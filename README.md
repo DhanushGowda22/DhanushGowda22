@@ -38,7 +38,7 @@ Turning data into actionable insights through Machine Learning
 - Built using FastAPI, Scikit-learn, Docker  
 - Predicts heart disease risk using ML models  
 - 🔗 [View Project](https://github.com/DhanushGowda22/CardioPredict)
-- - 🌐 [Live Demo](https://cardiopredict-a18b.onrender.com/)
+- 🌐 [Live Demo](https://cardiopredict-a18b.onrender.com/)
 
 ### 📚 Book Recommender System
 - Recommends books using collaborative filtering  
