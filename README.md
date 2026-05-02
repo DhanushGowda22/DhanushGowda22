@@ -56,6 +56,6 @@ Turning data into actionable insights through Machine Learning
 
 ---
 
-## 🔗 Connect with me
+##  Connect with me
 - LinkedIn: https://www.linkedin.com/in/dhanush-gowda-6b6537245/
 - Email: appudhanush224@gmail.com
