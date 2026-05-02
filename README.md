@@ -50,7 +50,7 @@ Turning data into actionable insights through Machine Learning
 
 ##  GitHub Stats
 
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushGowda22&show_icons=true&theme=tokyonight)
+[Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushGowda22&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGowda22&layout=compact&theme=tokyonight)
 
